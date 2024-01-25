@@ -1,0 +1,43 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    border-left: 1px solid #333;
+    
+}
+.head{
+    background-color: grey;
+
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
+.shop img{
+   
+    border-radius: 10px;
+}
+a{
+   
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color:darkred;
+}
+a:visited{
+    color:blue;
+}
+
+
+li{
+    padding-bottom: 8px;
+}
