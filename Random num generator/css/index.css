@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: gray;
+   
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+   
+    text-align: center;
+    
+    
+}
+h1{
+    position:relative;
+    bottom:30px;
+}
+input{
+   width:50%;
+}
